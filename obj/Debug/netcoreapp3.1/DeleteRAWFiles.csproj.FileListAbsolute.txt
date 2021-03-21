@@ -1,0 +1,13 @@
+C:\dev\github.com\DeleteRAWFiles\bin\Debug\netcoreapp3.1\DeleteRAWFiles.exe
+C:\dev\github.com\DeleteRAWFiles\bin\Debug\netcoreapp3.1\DeleteRAWFiles.deps.json
+C:\dev\github.com\DeleteRAWFiles\bin\Debug\netcoreapp3.1\DeleteRAWFiles.runtimeconfig.json
+C:\dev\github.com\DeleteRAWFiles\bin\Debug\netcoreapp3.1\DeleteRAWFiles.runtimeconfig.dev.json
+C:\dev\github.com\DeleteRAWFiles\bin\Debug\netcoreapp3.1\DeleteRAWFiles.dll
+C:\dev\github.com\DeleteRAWFiles\bin\Debug\netcoreapp3.1\DeleteRAWFiles.pdb
+C:\dev\github.com\DeleteRAWFiles\obj\Debug\netcoreapp3.1\DeleteRAWFiles.csprojAssemblyReference.cache
+C:\dev\github.com\DeleteRAWFiles\obj\Debug\netcoreapp3.1\DeleteRAWFiles.AssemblyInfoInputs.cache
+C:\dev\github.com\DeleteRAWFiles\obj\Debug\netcoreapp3.1\DeleteRAWFiles.AssemblyInfo.cs
+C:\dev\github.com\DeleteRAWFiles\obj\Debug\netcoreapp3.1\DeleteRAWFiles.csproj.CoreCompileInputs.cache
+C:\dev\github.com\DeleteRAWFiles\obj\Debug\netcoreapp3.1\DeleteRAWFiles.dll
+C:\dev\github.com\DeleteRAWFiles\obj\Debug\netcoreapp3.1\DeleteRAWFiles.pdb
+C:\dev\github.com\DeleteRAWFiles\obj\Debug\netcoreapp3.1\DeleteRAWFiles.genruntimeconfig.cache

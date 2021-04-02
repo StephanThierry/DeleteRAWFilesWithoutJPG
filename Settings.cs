@@ -1,4 +1,4 @@
-namespace DeleteRAWFiles
+namespace DeleteRAWFilesWithoutJPG
 {
     public class Settings
     {
